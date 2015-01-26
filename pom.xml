@@ -20,7 +20,7 @@
 
   <groupId>quedex.constellation</groupId>
   <artifactId>constellation-parent-graphics</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>pom</packaging>
 
   <name>Quedex Constellation parent graphics pom</name>
@@ -103,7 +103,7 @@
     <javadoc.maxmemory>1g</javadoc.maxmemory>
 
     <!-- Project-wide version specifications -->
-    <lwjgl.version>2.9.1</lwjgl.version>
+    <lwjgl.version>2.9.2</lwjgl.version>
     <java3d.version>1.3.1</java3d.version>
     <jbullet.version>20101010-1</jbullet.version>
   </properties>
