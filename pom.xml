@@ -20,7 +20,7 @@
 
   <groupId>quedex.constellation</groupId>
   <artifactId>constellation-parent-graphics</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <packaging>pom</packaging>
 
   <name>Quedex Constellation parent graphics pom</name>
@@ -91,13 +91,13 @@
     <osgi.fragment-host/>
     <osgi.required-execution-environment/>
 
-    <surefire.version>2.17</surefire.version>
-    <javadoc.version>2.8.1</javadoc.version>
+    <surefire.version>2.19</surefire.version>
+    <javadoc.version>2.10.3</javadoc.version>
     <cobertura.version>2.6</cobertura.version>
     <pmd.version>2.7.1</pmd.version>
-    <plexus-utils.version>3.0.7</plexus-utils.version>
+    <plexus-utils.version>3.0.24</plexus-utils.version>
     <replacer.version>1.5.2</replacer.version>
-
+	
     <site.skip>false</site.skip>
     <javadoc.aggregate>false</javadoc.aggregate>
     <javadoc.maxmemory>1g</javadoc.maxmemory>
